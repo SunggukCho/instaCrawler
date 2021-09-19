@@ -1,0 +1,25 @@
+{
+  "name": "instaCrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likelionSungGuk/instaCrawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/likelionSungGuk/instaCrawler/issues"
+  },
+  "homepage": "https://github.com/likelionSungGuk/instaCrawler#readme",
+  "dependencies": {
+    "chromedriver": "^93.0.1",
+    "geckodriver": "^2.0.4",
+    "selenium-webdriver": "^4.0.0-rc-1"
+  }
+}
